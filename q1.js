@@ -1,4 +1,4 @@
-//create function for count the number of items in an array 
+//create function for count the number of items in an array
 function item_count(arr){
     console.log("item count: "+arr.length);
 }
